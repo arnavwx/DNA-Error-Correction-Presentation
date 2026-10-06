@@ -1,11 +1,13 @@
 # Error Correction for DNA Storage (InC Infojatt)
 
+> [!IMPORTANT]
+> 🎥 **[SUBMITTED VIDEO: Click here to watch the final presentation (Google Drive)](#)** 🎥
+
 Welcome to the Infocom Term Paper Presentation repository for **Error Correction for DNA Storage**! This repository documents our research, presentation materials, and theoretical breakdowns based on the paper by Jin Sima, Netanel Raviv, Moshe Schwartz, and Jehoshua Bruck. 
 
 ## Repository Structure
 
 - **[`Team_8_Error_Correction_for_DNA_Storage.pdf`](./Team_8_Error_Correction_for_DNA_Storage.pdf)**: The primary research paper assigned to our group.
-- **[`Final_Presentation.mp4`](./Final_Presentation.mp4)**: The final compiled presentation video showcasing our work.
 - **[`manim/`](./manim)**: Contains the `dna_presentation.py` script, which houses the complete source code used to generate the 13 mathematical animations and slides for the presentation.
 - **[`theory/`](./theory)**: Contains [`DNA_Storage_Theory.md`](./theory/DNA_Storage_Theory.md), a comprehensive summary of the core concepts, error channels, and coding mechanisms described in the paper.
 - **[`references/`](./references)**: Contains [`References_List.md`](./references/References_List.md), an organized list of the academic papers and foundational theories referenced throughout this project.
