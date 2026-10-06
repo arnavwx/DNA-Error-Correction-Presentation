@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > 🎥 **[SUBMITTED VIDEO: Click here to watch the final presentation (Google Drive)](https://drive.google.com/file/d/1GLygwQ05kOqNfXIF_SveUyOTcDIRPVgy/view?usp=sharing)** 🎥
 
-Welcome to the Infocom Term Paper Presentation repository for **Error Correction for DNA Storage**! This repository documents our research, presentation materials, and theoretical breakdowns based on the paper by Jin Sima, Netanel Raviv, Moshe Schwartz, and Jehoshua Bruck. 
+Welcome to the Infocom Term Paper Presentation repository for *Error Correction for DNA Storage*! This repository documents our research, presentation materials, and theoretical breakdowns based on the paper by Jin Sima, Netanel Raviv, Moshe Schwartz, and Jehoshua Bruck. 
 
 ## Repository Structure
 
